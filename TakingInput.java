@@ -12,4 +12,6 @@ public class TakingInput {
         System.out.println("Sum: " + (a+b) + " " + name );
 
     }
+    
 }
+
