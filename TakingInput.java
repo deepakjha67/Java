@@ -14,4 +14,8 @@ public class TakingInput {
     }
     
 }
-
+// Output:
+// 2
+// 6
+// Hello 
+// Sum: 8 Hello
