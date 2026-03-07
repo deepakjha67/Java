@@ -20,7 +20,6 @@ public class Arithmatic_Operators {
         
     }
 }
-
 // Output :
 // 21
 // 21
