@@ -12,6 +12,7 @@ public class string {
     }
 }
 
+
 //Output: 
 // Be consistent WORK DAILY
 // WORK DAILY
