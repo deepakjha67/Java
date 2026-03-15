@@ -12,6 +12,7 @@ public class conditionalStatement {
         } else {
             System.out.println("Old");
         }
+        
 
       // if ( age == 18 || age == 20) {      // "||" is or gate
         //     System.out.println("Eligible");
