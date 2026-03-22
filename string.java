@@ -11,6 +11,7 @@ public class string {
         System.out.println(name.charAt(2));
     }
 }
+
 //Output: 
 // Be consistent WORK DAILY
 // WORK DAILY
