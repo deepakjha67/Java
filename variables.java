@@ -15,7 +15,6 @@ public class variables {
     }
 
 }
-
 // Output
 // 22
 // 56
