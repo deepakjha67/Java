@@ -16,6 +16,7 @@ public class switchstatement {
 //		System.out.println("Saturday");
 //		else
 //		System.out.println("Sunday");
+
 		
 		int n=8;
 		switch(n) {
