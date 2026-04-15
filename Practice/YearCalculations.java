@@ -1,3 +1,5 @@
+// Problem: Convert days into years, weeks, and days
+
 import java.util.Scanner;
 public class YearCalculations
 {
