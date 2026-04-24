@@ -17,6 +17,7 @@ public class Numbers
         sc.close();
     }
 }
+
 /*
 Output :
 Enter the number: 
