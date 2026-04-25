@@ -20,6 +20,7 @@ public class YearCalculations
         sc.close();
     }
 }
+
 /*
 Output: 
 Enter days: 
