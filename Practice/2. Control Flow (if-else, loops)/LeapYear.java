@@ -10,6 +10,7 @@ public class LeapYear {
         sc.close();
     }
 }
+
 /*
 Output:
 Enter year: 2034
