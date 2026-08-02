@@ -22,6 +22,7 @@ public class Demo {
 }
 	**/
 
+
 class Computer
 {
 	public void playMusic()
