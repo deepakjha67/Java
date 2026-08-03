@@ -28,5 +28,4 @@ public class Lecture_1 {
        System.out.println(result);
    } 
    }
-
    // Output : 9
