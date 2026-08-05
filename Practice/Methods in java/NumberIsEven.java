@@ -11,7 +11,6 @@ public class NumberIsEven
         System.out.println(isEven(29));
     }
 }
-
 // OUTPUT :
 // true
 // false
