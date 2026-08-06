@@ -15,7 +15,6 @@ public class UpdateValue
         System.out.println("Inside main: " + num);
     }
 }
-
 // OUTPUT: 
 // Inside Method: 30
 // Inside main: 25
