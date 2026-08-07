@@ -13,5 +13,6 @@ public class CalculatePercentage
     }
 }
 
+
 // OUTPUT :
 // Percentage : 93.0 %
