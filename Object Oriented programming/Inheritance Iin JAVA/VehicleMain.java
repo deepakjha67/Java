@@ -10,7 +10,7 @@ class Vehicle {
         this.model = model;
         this.numberOfTires = numberOfTires;
     }
-    
+
     // Default Constructor
     public Vehicle() {
         this.name = "";
