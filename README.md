@@ -10,7 +10,7 @@ This project contains sample implementations and demonstrations of Java's Collec
 
 Navigate directly to specific folders or files below:
 
-```text
+
 java-for-DSA/
 ├── Collection Framework in JAVA/
 │   ├── Basics.java                 [📄 View](./Collection%20Framework%20in%20JAVA/Basics.java)
